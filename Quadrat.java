@@ -1,4 +1,4 @@
-class Quadrat extends Shape {   // extended form the Shape class
+class Quadrat {  
     private double width;
  
     public  Quadrat(double width) {
