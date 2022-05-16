@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Quadrat","l":"getAreaQuadrat()"},{"p":"<Unnamed>","c":"Quadrat","l":"Quadrat(double)","u":"%3Cinit%3E(double)"}];updateSearchResults();
