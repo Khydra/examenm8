@@ -1,5 +1,9 @@
 // A sample class Shape which provides a method to get the Shape's area
 class Shape {
+  
+  /** 
+   * @return double
+   */
   public double getArea() {
     return 0;
   }
