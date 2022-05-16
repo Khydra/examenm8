@@ -1,4 +1,4 @@
-class Quadrat {  
+public class Quadrat {  
     private double width;
  
     public  Quadrat(double width) {
