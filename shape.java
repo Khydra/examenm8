@@ -19,6 +19,12 @@ class Rectangle extends Shape {   // extended form the Shape class
   public double getArea() {
     return width * height; 
   }
+  public Quadrat(double width) {
+    this.width = width;
+  }
+  public double getAreaQuadrat() {
+    return width * width; 
+  }
 }
 // A Circle is a Shape with a specific radius
 class Circle extends Shape {
