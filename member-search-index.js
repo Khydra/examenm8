@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"Quadrat","l":"getAreaQuadrat()"},{"p":"<Unnamed>","c":"Quadrat","l":"Quadrat(double)","u":"%3Cinit%3E(double)"}];updateSearchResults();
+memberSearchIndex = [{"p":"<Unnamed>","c":"Rectangle","l":"getArea()"},{"p":"<Unnamed>","c":"Rectangle","l":"Rectangle(double, double)","u":"%3Cinit%3E(double,double)"}];updateSearchResults();
