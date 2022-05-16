@@ -19,7 +19,7 @@ class Rectangle extends Shape {   // extended form the Shape class
   public double getArea() {
     return width * height; 
   }
-  public Quadrat(double width) {
+  public void Quadrat(double width) {
     this.width = width;
   }
   public double getAreaQuadrat() {
